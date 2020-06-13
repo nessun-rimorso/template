@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7cb0cd6-847b-45a5-bbe0-96cf1337dc52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/OpenSans-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/OpenSans-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/SourceSansPro-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/fonts/SourceSansPro-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/sass/font.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/js/index.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -63,6 +57,23 @@
       <recent name="C:\Users\Zazev\OneDrive\Рабочий стол\nessun-project\template\source\sass" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,11 +87,33 @@
       <workItem from="1573308972823" duration="6859000" />
       <workItem from="1573389611187" duration="17000" />
       <workItem from="1573390267649" duration="31000" />
-      <workItem from="1592048781400" duration="1184000" />
+      <workItem from="1592048781400" duration="4376000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1894" height="258" key="GridCell.Tab.0.bottom" timestamp="1592060891096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592060891096" />
+    <state width="1894" height="258" key="GridCell.Tab.0.center" timestamp="1592060891096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="258" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592060891096" />
+    <state width="1894" height="258" key="GridCell.Tab.0.left" timestamp="1592060891096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="258" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592060891096" />
+    <state width="1894" height="258" key="GridCell.Tab.0.right" timestamp="1592060891096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="258" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592060891096" />
+    <state x="581" y="195" width="757" height="650" key="find.popup" timestamp="1592060361328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="195" width="757" height="650" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592060361328" />
   </component>
 </project>

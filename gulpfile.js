@@ -36,7 +36,9 @@ gulp.task('css', function () {
 
 gulp.task('js', function (){
     return gulp.src('source/js/index.js')
-        .pipe(babel())
+        .pipe(babel({
+            presets: ['@babel/env']
+        }))
         .pipe(terser())
         .pipe(gulp.dest('build/js'));
 });
